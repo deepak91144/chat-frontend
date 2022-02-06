@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+.chatCon {
+  width: 40%;
+  height: 500px;
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.chatFooter {
+  position: relative;
+}
+.mainCon {
+  display: flex;
+  justify-content: center;
+}
+
+#you {
+  margin-top: 15px;
+  border-top-left-radius: 20px;
+  background-color: seagreen;
+  color: white;
+  padding: 10px;
+  width: 50%;
+}
+#other {
+  margin-top: 15px;
+  border-top-left-radius: 20px;
+  background-color: gray;
+  padding: 10px;
+  width: 50%;
+  color: white;
+  align-self: flex-end;
+}
+.chatBody {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: auto;
+}
+#you .time {
+  float: right;
+}
+#other .time {
+  float: right;
+}
