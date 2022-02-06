@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepak91144/chat-frontend/static/css/main.676e44a3.css",
+    "main.js": "/deepak91144/chat-frontend/static/js/main.38a95df8.js",
+    "static/js/787.cda612ba.chunk.js": "/deepak91144/chat-frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/deepak91144/chat-frontend/index.html",
+    "main.676e44a3.css.map": "/deepak91144/chat-frontend/static/css/main.676e44a3.css.map",
+    "main.38a95df8.js.map": "/deepak91144/chat-frontend/static/js/main.38a95df8.js.map",
+    "787.cda612ba.chunk.js.map": "/deepak91144/chat-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.676e44a3.css",
+    "static/js/main.38a95df8.js"
+  ]
+}
